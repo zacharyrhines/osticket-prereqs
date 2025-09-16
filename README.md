@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop access
 - osTicket installation files
 - HeidiSQL
-- 
+
 <h2>Installation Steps</h2>
 
 <p>
