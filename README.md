@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 1. Creating a Virtual Machine in Azure
-<img width="1500" height="1000" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
+<img width="1200" height="750" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
 />
 </p>
 <p>
