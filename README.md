@@ -35,7 +35,7 @@ We will use the following credentials when creating the VM:
 -Image: Windows 10 Pro, version 22H2 - x64 Gen2
 -Size: 2 vCPUs, 8 GiB memory
   
-<img width="1200" height="750" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
+<img width="1000" height="500" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
 />
 </p>
 <p>
