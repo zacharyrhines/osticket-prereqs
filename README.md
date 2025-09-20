@@ -43,6 +43,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <img width="80%" height="80%" alt="OSTickPreReqs2" src="https://github.com/user-attachments/assets/3dc89d23-3d1a-43d3-b8fe-0c345b063252"/>
 </p>
 
+
 <h3>2.) Accessing the Virtual Machine</h3>
 
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup.
@@ -59,6 +60,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <img width="80%" height="80%" alt="OSTickPreReqs4" src="https://github.com/user-attachments/assets/dd62ab04-98a4-4a01-ae11-d9432440844b"/>
 </p>
 
+
 <h3>4.) Install IIS and Enable Required Features</h3>
 
 - Open **Control Panel** -> **Programs** -> **Turn Windows features on or off**.
@@ -68,6 +70,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <p>
 <img width="80%" height="80%" alt="OSTickPreReqs5" src="https://github.com/user-attachments/assets/b1fdb74c-eebb-4e99-88a0-68cd09951e6b"/>
 </p>
+
 
 <h3>5.) Install Required Components</h3>
 
@@ -79,6 +82,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <img width="1746" height="778" alt="OSTickPreReqs6" src="https://github.com/user-attachments/assets/df14c45f-1f5a-4217-a8ef-26120982bd70" />
 
 </p>
+
 
 <h3>6.) Setup PHP</h3>
 
@@ -96,6 +100,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 </p>
 
+
 <h3>7.) Install MySQL</h3>
 
 - From the `osTicket-Installation-Files` folder, install MySQL 5.5.62 (`mysql-5.5.62-win32.msi`).
@@ -107,6 +112,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <p>
 <img width="80%" height="80%" alt="OSTickPreReqs9" src="https://github.com/user-attachments/assets/80ab8964-004d-4e33-9c0e-50d9146e322f" />
 </p>
+
 
 <h3>8.) Configure IIS</h3>
 
@@ -146,6 +152,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 </p>
 
+
 <h3>10.) Configure osTicket</h3>
 
 - Open IIS:
@@ -176,6 +183,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <p>
 <img width="80%" height="80%" alt="OSTickPreReqs19" src="https://github.com/user-attachments/assets/6729ab05-faab-4458-aee0-fd9f9c4faae3" />
 </p>
+
 
 <h3>11.) Update Configuration Files</h3>
 
@@ -209,6 +217,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 </p>
 
+
 <h3>13.) Install HeidiSQL and Configure Database</h3>
 
 - From the `osTicket-Installation-Files` folder, install **HeidiSQL**.
@@ -226,6 +235,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 </p>
 
+
 <h3>14.) Finalize osTicket Installation</h3>
 
 - In the browser, complete the setup:
@@ -238,6 +248,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <img width="80%" height="80%" alt="OSTickPreReqs26" src="https://github.com/user-attachments/assets/668f09ad-d6c7-45ce-99c4-c6ec3b92406c" />
 
 </p>
+
 
 <h3>15.) Verify Installation</h3>
 
