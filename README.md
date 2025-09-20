@@ -105,7 +105,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
     - Input a username and password, don't forget this!
 
 <p>
-<img src="https://imgur.com/gU1mmij.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs9" src="https://github.com/user-attachments/assets/80ab8964-004d-4e33-9c0e-50d9146e322f" />
 </p>
 
 <h3>8.) Configure IIS</h3>
@@ -116,15 +116,15 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Reload IIS (Stop and Start the server).
 
 <p>
-<img src="https://imgur.com/qGXR04U.png" height="40%" width="50%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs10" src="https://github.com/user-attachments/assets/bd8b347c-938c-4767-9604-f17aab523645" />
 </p>
 
 <p>
-<img src="https://imgur.com/tcm2hns.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs11" src="https://github.com/user-attachments/assets/4bda460c-0425-4da9-98a8-37dade11bf89" />
 </p>
 
 <p>
-<img src="https://imgur.com/Bpe0NWW.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs12" src="https://github.com/user-attachments/assets/cdd76cf4-2fec-40cc-b051-076d3794eefd" />
 </p>
 
 
@@ -137,11 +137,13 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Reload IIS (Stop and Start the server).
 
 <p>
-<img src="https://imgur.com/I47ieTi.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs13" src="https://github.com/user-attachments/assets/3a44acd8-9d34-4a74-9750-9295116ec033" />
+
 </p>
 
 <p>
-<img src="https://imgur.com/3e1CF2K.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs14" src="https://github.com/user-attachments/assets/1030ff83-a096-4d4c-8b43-e915dae09418" />
+
 </p>
 
 <h3>10.) Configure osTicket</h3>
@@ -151,11 +153,12 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - On the right, click **Browse *:80**.
 
 <p>
-<img src="https://imgur.com/2BOBiS0.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs16" src="https://github.com/user-attachments/assets/ede90798-c577-42e4-a915-808872a570a0"/>
 </p>
 
 <p>
-<img src="https://imgur.com/A8VD1ZI.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs17" src="https://github.com/user-attachments/assets/d36e2e7a-9350-43f4-a2a6-d440435c8f5f" />
+
 </p>
 
 - Note extensions that are not enabled. Go back to IIS:
@@ -167,11 +170,11 @@ Check the licensing box and review & create the VM. No changes are needed for ma
     - `php_opcache.dll`
 
 <p>
-<img src="https://imgur.com/MQLiNUT.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs18" src="https://github.com/user-attachments/assets/7282e3e0-8902-49ef-9101-ea8695af067d" />
 </p>
 
 <p>
-<img src="https://imgur.com/lpQEvVH.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs19" src="https://github.com/user-attachments/assets/6729ab05-faab-4458-aee0-fd9f9c4faae3" />
 </p>
 
 <h3>11.) Update Configuration Files</h3>
@@ -184,25 +187,26 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Add new permissions -> **Everyone** -> **Full control**.
 
 <p>
-<img src="https://imgur.com/jiyaAbO.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs20" src="https://github.com/user-attachments/assets/4ff2fed2-cf57-4fc6-96ce-3fa3893fd988" />
 </p>
 
 <p>
-<img src="https://imgur.com/DJbCkHg.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs21" src="https://github.com/user-attachments/assets/ab522f27-c34b-46c6-8516-2b0981b1cce6" />
 </p>
 
 <p>
-<img src="https://imgur.com/JEZ6DCu.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs22" src="https://github.com/user-attachments/assets/dd50087e-77ce-4375-9673-39ef8b2e4eb0" />
 </p>
 
 <h3>12.) Complete osTicket Setup</h3>
 
 - In the browser, continue the osTicket setup:
-  - Set **Helpdesk Name**.
+  - Set **Helpdesk Name**. In this case, I used William, my middle name.
   - Set **Default email** (receives emails from customers).
 
 <p>
-<img src="https://imgur.com/yEt4fDC.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs23" src="https://github.com/user-attachments/assets/bc8c3ac4-ff39-4935-b740-a6371a263bc5" />
+
 </p>
 
 <h3>13.) Install HeidiSQL and Configure Database</h3>
@@ -214,11 +218,12 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Create a database named `osTicket`.
 
 <p>
-<img src="https://imgur.com/VjjQWVY.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs24" src="https://github.com/user-attachments/assets/b84f4463-717f-47fc-a5e5-747227e36063" />
 </p>
 
 <p>
-<img src="https://imgur.com/9Dqt1G7.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs25" src="https://github.com/user-attachments/assets/e6e63460-04ce-4ae3-901d-4799c20eadcc" />
+
 </p>
 
 <h3>14.) Finalize osTicket Installation</h3>
@@ -230,7 +235,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Click **Install Now!**
 
 <p>
-<img src="https://imgur.com/h3BQRQB.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs26" src="https://github.com/user-attachments/assets/668f09ad-d6c7-45ce-99c4-c6ec3b92406c" />
+
 </p>
 
 <h3>15.) Verify Installation</h3>
@@ -238,12 +244,11 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Access your help desk login page: `http://localhost/osTicket/scp/login.php`.
 
 <p>
-<img src="https://imgur.com/oHoJDJh.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs27" src="https://github.com/user-attachments/assets/24340609-0583-4c9d-a167-fbd6392cbe14" />
+
 </p>
 
 <h2>Conclusion</h2>
 
 Congratulations! You have successfully installed and configured osTicket on your virtual machine. Your help desk system is now ready to use!
 </p>
-
-<h2>Conclusion</h2>
