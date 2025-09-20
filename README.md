@@ -34,7 +34,7 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
-<img width="1000" height="650" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
+<img width="80%" height="80%" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/25cea5ee-58a9-4292-b4b0-69da79692d4e"/>
 />
 </p>
 <p>
