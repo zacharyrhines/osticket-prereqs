@@ -36,11 +36,11 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src="https://imgur.com/tXJV8Nn.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/38e76e53-76a4-400d-bf44-2f301a88207b"/>
 </p>
 
 <p>
-<img src="https://imgur.com/xIxIeJw.png" height="80%" width="80%" alt="Step 1 Lab 2"/>
+<img width="80%" height="80%" alt="OSTickPreReqs2" src="https://github.com/user-attachments/assets/3dc89d23-3d1a-43d3-b8fe-0c345b063252"/>
 </p>
 
 <h3>2.) Accessing the Virtual Machine</h3>
@@ -48,7 +48,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup.
 
 <p>
-<img src="https://imgur.com/qMk46Uw.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs3" src="https://github.com/user-attachments/assets/30e2682f-a6fa-4fbe-8357-8db7c9f237c0"/>
 </p>
 
 <h3>3.) Download and Prepare Installation Files</h3>
@@ -56,7 +56,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop. The folder should be named `osTicket-Installation-Files`.
 
 <p>
-<img src="https://imgur.com/C80xifK.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs4" src="https://github.com/user-attachments/assets/dd62ab04-98a4-4a01-ae11-d9432440844b"/>
 </p>
 
 <h3>4.) Install IIS and Enable Required Features</h3>
@@ -66,7 +66,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - **World Wide Web Services** -> **Application Development Features** -> [X] CGI
 
 <p>
-<img src="https://imgur.com/eRYnjkR.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs5" src="https://github.com/user-attachments/assets/b1fdb74c-eebb-4e99-88a0-68cd09951e6b"/>
 </p>
 
 <h3>5.) Install Required Components</h3>
@@ -76,7 +76,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Install **Rewrite Module**: `rewrite_amd64_en-US.msi`.
  
 <p>
-<img src="https://imgur.com/sBMVZ1D.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="1746" height="778" alt="OSTickPreReqs6" src="https://github.com/user-attachments/assets/df14c45f-1f5a-4217-a8ef-26120982bd70" />
+
 </p>
 
 <h3>6.) Setup PHP</h3>
@@ -86,11 +87,13 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Install `VC_redist.x86.exe`.
 
 <p>
-<img src="https://imgur.com/aKVDcdX.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs7" src="https://github.com/user-attachments/assets/42fc1d50-4b80-4b1c-adc6-05ae53b3a7c4" />
+
 </p>
 
 <p>
-<img src="https://imgur.com/71i0bQq.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs8" src="https://github.com/user-attachments/assets/9541bbdb-6105-4f54-bafd-ee3f603f1a63" />
+
 </p>
 
 <h3>7.) Install MySQL</h3>
