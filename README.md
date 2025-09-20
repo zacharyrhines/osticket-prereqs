@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-In Microsoft Azure, we will create a VM and add it to a new Resource Group, titled "osTicket". 
+<h3>1.) In Microsoft Azure, we will create a VM and add it to a new Resource Group, titled "osTicket".</h3> 
 
 - **VM Name:** osticket-vm  
 - **Image:** Windows 10 Pro, version 22H2 - x64 Gen2  
@@ -35,8 +35,10 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src="https://i.imgur.com/Bz829jL.png" height="70%" width="70%" alt="Step 1 Lab 3"/>
-<img src="https://imgur.com/tXJV8Nn.png" height="70" width="70%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs1" src="https://github.com/user-attachments/assets/91000df2-4929-444c-adf6-349425371966" />
+/>
+<img width="80%" height="80%" alt="OSTickPreReqs2" src="https://github.com/user-attachments/assets/aa36b0ae-2015-4a49-9ba0-3a6eb9963b6e" />
+/>
 </p>
 
 <h3>2.) Accessing the Virtual Machine</h3>
@@ -44,8 +46,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup.
 
 <p>
-<img src="https://i.imgur.com/8IdvRmZ.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-<img src="https://imgur.com/qMk46Uw.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPreReqs3" src="https://github.com/user-attachments/assets/b20729f8-ea05-45ea-96e5-ebf5e1aadda9" />
 </p>
 
 <h3>3.) Download and Prepare Installation Files</h3>
@@ -53,8 +54,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop. The folder should be named `osTicket-Installation-Files`.
 
 <p>
-<img src="https://i.imgur.com/6imV7Hy.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-<img src="https://imgur.com/C80xifK.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img width="80" height="80" alt="OSTickPreReqs4" src="https://github.com/user-attachments/assets/3116735e-4bee-4fc4-bfe4-d93a7ef23b03" />
+
 </p>
 
 <h3>4.) Install IIS and Enable Required Features</h3>
