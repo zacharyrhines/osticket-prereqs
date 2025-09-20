@@ -35,8 +35,8 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src="https://i.imgur.com/Bz829jL.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-<img src="https://imgur.com/tXJV8Nn.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
+<img src="https://i.imgur.com/Bz829jL.png" height="70%" width="70%" alt="Step 1 Lab 3"/>
+<img src="https://imgur.com/tXJV8Nn.png" height="70" width="70%" alt="Step 1 Lab 3"/>
 </p>
 
 <h3>2.) Accessing the Virtual Machine</h3>
