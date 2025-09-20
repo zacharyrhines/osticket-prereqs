@@ -39,11 +39,6 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <img src="https://imgur.com/tXJV8Nn.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
 </p>
 
-<p>
-<img src="https://i.imgur.com/rHmcRf3.png" height="80%" width="80%" alt="Step 1 Lab 2"/>
-<img src="https://imgur.com/xIxIeJw.png" height="80%" width="80%" alt="Step 1 Lab 2"/>
-</p>
-
 <h3>2.) Accessing the Virtual Machine</h3>
 
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup.
