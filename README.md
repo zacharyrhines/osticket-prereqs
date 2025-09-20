@@ -122,7 +122,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Reload IIS (Stop and Start the server).
 
 <p>
-<img width="80%" height="80%" alt="OSTickPreReqs10" src="https://github.com/user-attachments/assets/bd8b347c-938c-4767-9604-f17aab523645" />
+<img width="50%" height="50%" alt="OSTickPreReqs10" src="https://github.com/user-attachments/assets/bd8b347c-938c-4767-9604-f17aab523645" />
 </p>
 
 <p>
