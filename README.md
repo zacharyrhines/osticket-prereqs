@@ -209,7 +209,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 <h3>12.) Complete osTicket Setup</h3>
 
 - In the browser, continue the osTicket setup:
-  - Set **Helpdesk Name**. In this case, I used William, my middle name.
+  - Set **Helpdesk Name**.
   - Set **Default email** (receives emails from customers).
 
 <p>
